@@ -10,7 +10,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class meoRemote {
+public class remote {
   static Scanner kb = new Scanner(System.in);
 
   public static void main(String[] args) {
